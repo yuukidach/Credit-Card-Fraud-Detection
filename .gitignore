@@ -249,3 +249,5 @@ tags
 [._]*.un~
 
 .~Data\ analysis\ for\ credit\ card\ fraud\ detection.pptx
+
+logs/
