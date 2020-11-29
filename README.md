@@ -6,7 +6,7 @@ This is the group project of COMP7404B. Original dataset can be found at [Kaggle
 It contains data about credit card transactions that occurred during a period of two days, with 492 frauds out of 284,807 transactions.
 All variables in the dataset are numerical. The data has been transformed using PCA transformation(s) due to privacy reasons.
 
-We use Autoencoder Neural Network + SVM for anomaly detection in credit card transaction data and evaluate its performences with ony using logistic regression and svm.
+We use Autoencoder Neural Network + SVM for anomaly detection in credit card transaction data and evaluate its performences with only using logistic regression and svm.
 
 ## File Structure
 
